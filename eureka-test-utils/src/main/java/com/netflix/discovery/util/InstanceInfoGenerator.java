@@ -25,6 +25,7 @@ import static com.netflix.discovery.util.EurekaEntityFunctions.toApplicationMap;
  * Test data generator.
  *
  * @author Tomasz Bak
+ * 测试提交代码
  */
 public class InstanceInfoGenerator {
     public static final int RENEW_INTERVAL = 5;
